@@ -2,7 +2,7 @@
 Curious engineer exploring the world of Data Science, Machine Learning, Generative AI, and software development learning by building real-world projects.
 
 <div align="center">
-# 👋 Hi, I'm Hemangi M.
+<h1 align="center"><strong>Hi 👋, I'm Hemangi</strong></h1>
 
 ### AI/ML Enthusiast | Data Science | Generative AI | Python
 <p>
