@@ -1,6 +1,6 @@
 # About-Me
 Curious engineer exploring the world of Data Science, Machine Learning, Generative AI, and software development learning by building real-world projects.
-<h1 align="center">Hi 👋, I'm Hemangi Ravindra Mistari</h1>
+<h1 align="center">Hi 👋, I'm Hemangi </h1>
 <h3 align="center">AI/ML Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemangi2804&label=Profile%20views&color=0e75b6&style=flat" alt="hemangi2804" /> </p>
