@@ -33,4 +33,214 @@ Curious engineer exploring the world of Data Science, Machine Learning, Generati
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemangi2804&show_icons=true&locale=en&layout=compact" alt="hemangi2804" /></p>
 
+
+<div align="center">
+
+# 👋 Hi, I'm Hemangi M.
+
+### AI/ML Enthusiast | Data Science | Generative AI | Python
+
+<p>
+  <b>Building practical AI, ML, data analytics, and backend solutions for real-world problems.</b>
+</p>
+
+<p>
+  <a href="https://github.com/hemangi2804">
+    <img src="https://img.shields.io/badge/GitHub-hemangi2804-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/hemangi-m-465621270/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hemangi%20M-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:hemangimistari187@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧠 Technical Skills
+
+### 🐍 Languages
+`Python` `SQL` `Go` `C` `C++` `Java`
+
+### 🤖 AI / Machine Learning
+`Machine Learning` `Deep Learning` `Neural Networks`
+`Scikit-learn` `TensorFlow` `PyTorch`
+`Predictive Modeling` `Model Training` `Model Evaluation`
+`Feature Engineering` `Hyperparameter Tuning`
+
+### 🧠 Generative AI & NLP
+`Generative AI` `LLMs` `NLP` `RAG`
+`Embeddings` `Semantic Search` `Text Summarization`
+`Prompt Engineering` `LangChain` `LangGraph`
+`AI Agents` `Vector Databases`
+
+### 📊 Data Science & Analytics
+`Pandas` `NumPy` `SQL`
+`Data Cleaning` `Data Preprocessing`
+`Exploratory Data Analysis`
+`Feature Engineering`
+`Data Visualization` `Power BI`
+`Statistical Analysis`
+
+### ⚙️ Backend & Development
+`FastAPI` `Streamlit` `REST APIs`
+`PostgreSQL` `Redis`
+`Docker` `Git` `GitHub`
+
+### ☁️ Cloud & Tools
+`AWS` `Azure` `Google Cloud`
+`Jupyter Notebook` `Linux`
+`Postman`
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 Customer Behaviour Analysis
+
+**Data Analytics | Python | SQL | Power BI**
+
+Analyzed **3,900+ retail transaction records** to understand customer purchasing
+patterns, product performance, revenue trends, subscriptions, and customer segments.
+
+- Cleaned and processed raw datasets using **Python, Pandas and NumPy**
+- Performed **EDA and feature engineering** to uncover meaningful patterns
+- Used **SQL and SQLAlchemy** for business-focused analysis
+- Built an interactive **Power BI dashboard** with KPIs and visualizations
+- Converted raw data into actionable insights for business decision-making
+
+🔗 **Repository:**  
+https://github.com/hemangi2804/Customer-Behaviour-Analysis
+
+---
+
+## 🍽️ Restaurant Rating Prediction
+
+**Machine Learning | Python | Scikit-learn | Streamlit**
+
+Built an end-to-end Machine Learning solution to predict restaurant ratings using
+structured data.
+
+- Performed data preprocessing and exploratory analysis
+- Applied feature engineering and model training
+- Built a **Random Forest Regression** model
+- Evaluated model performance and analyzed predictions
+- Developed an interactive **Streamlit application**
+
+🔗 **Repository:**  
+https://github.com/hemangi2804/Restaurant-Rating-Prediction
+
+---
+
+## 🏥 Medical Chatbot – Generative AI
+
+**Generative AI | RAG | LLM | LangChain | Embeddings**
+
+Built an AI-powered medical chatbot using **Retrieval-Augmented Generation (RAG)**
+to retrieve relevant information from knowledge sources and generate contextual
+responses.
+
+- Created document processing and retrieval workflows
+- Generated and used **embeddings** for semantic retrieval
+- Implemented **RAG pipelines** using LangChain
+- Integrated LLM-based response generation
+- Focused on improving contextual relevance and reducing unsupported responses
+
+🔗 **Repository:**  
+https://github.com/hemangi2804/Medical-Chatbot-Generative-AI
+
+---
+
+## 📝 Text Summarization Using NLP
+
+**NLP | Python | Text Processing | FastAPI**
+
+Developed an NLP-based application that generates concise summaries from
+long-form input text.
+
+- Applied NLP preprocessing techniques
+- Implemented text summarization workflows
+- Built a backend using **FastAPI**
+- Designed the system to convert lengthy text into concise information
+
+🔗 **Repository:**  
+https://github.com/hemangi2804/Text-Summarization-Using-NLP
+
+---
+
+# 🤖 More Machine Learning Projects
+
+### 🎬 Movie Recommendation System
+A collaborative filtering based recommendation system built using
+**Python, Pandas, NumPy and Matplotlib** to generate personalized movie
+recommendations.
+
+🔗 https://github.com/hemangi2804/Movie-Recommendation-System-ML
+
+### 🧠 AI / ML Experiments
+Hands-on experimentation with **Machine Learning, Deep Learning, NLP,
+Generative AI, LLMs, embeddings and data preprocessing** through academic,
+internship and personal projects.
+
+---
+
+# ⚙️ Backend & Software Engineering
+
+## 🔥 Yuktee Lead Service
+
+**Go | PostgreSQL | Redis | Docker | REST API | Distributed Systems**
+
+Built a backend service for reliable lead claiming and processing, focusing on
+concurrency, failure recovery, and reliable coordination between workers.
+
+- Implemented **lead claiming and distributed lease-based coordination**
+- Used **PostgreSQL and Redis** for persistence and coordination
+- Designed reliable processing with **idempotency and bounded retries**
+- Added failure recovery for worker and external-service failures
+- Containerized the application using **Docker**
+- Focused on predictable and reliable backend behavior
+
+🔗 **Repository:**  
+https://github.com/hemangi2804/yuktee-lead-service
+
+---
+
+# 💼 Experience
+
+### 🤖 AI/ML Internship
+
+Worked on Python-based AI/ML workflows involving:
+
+- Data preprocessing and validation
+- Exploratory Data Analysis
+- Feature engineering
+- Machine Learning model workflows
+- Model evaluation and performance analysis
+- NLP and Generative AI concepts
+- Documentation of experiments and results
+
+### 🧠 Machine Learning Internship
+
+Worked with **Python, Pandas, NumPy and SQL** for data preparation and ML
+workflows, focusing on data quality, analysis, troubleshooting and model
+evaluation.
+
+---
+
+# 📚 Currently Learning
+
+```text
+Generative AI
+       ↓
+LLMs → Prompt Engineering → Embeddings
+       ↓
+RAG → Vector Search → AI Agents
+       ↓
+LangChain → LangGraph → Agentic Workflows
+       ↓
+Backend APIs → Docker → Cloud
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemangi2804&show_icons=true&locale=en" alt="hemangi2804" /></p>
