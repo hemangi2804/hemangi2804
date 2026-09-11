@@ -4,7 +4,7 @@ Curious engineer exploring the world of Data Science, Machine Learning, Generati
 <div align="center">
 <h1 align="center"><strong>Hi 👋, I'm Hemangi</strong></h1>
 
-### AI/ML Enthusiast | Data Analysis | Data Science | Generative AI | Python
+### Python | Data Science | Generative AI | AI/ML Enthusiast 
 <p>
   <b>Building practical AI, ML, data analytics, and backend solutions for real-world problems.</b>
 </p>
